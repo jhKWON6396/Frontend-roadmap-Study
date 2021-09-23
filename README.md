@@ -2,7 +2,7 @@
 
 ##### roadmap.sh의 frontend 스터디 내용 정리
 
-:writing_hand: *write by JaeHwanKwon*
+##### :writing_hand: *write by JaeHwanKwon*
 ---------------------------------------------------
 
 
