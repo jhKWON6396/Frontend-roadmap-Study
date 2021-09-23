@@ -1,5 +1,6 @@
 # 인터넷의 동작 원리
 
+:writing_hand: *write by JaeHwanKwon*
 
 ## 인터넷
 
