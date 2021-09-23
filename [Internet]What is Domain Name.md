@@ -1,6 +1,6 @@
 # Domain Name
 
-:writing_hand: *write by shinjeonghea*
+:writing_hand: *write by JaeHwanKwon*
 
 
 ## 도메인 네임
