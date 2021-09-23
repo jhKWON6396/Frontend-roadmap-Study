@@ -1,6 +1,6 @@
 ### Frontend-roadmap-Study
 
-##### roadmap.sh의 frontend 내용들의 개념을 정리하고 공부하기 위한 곳
+##### roadmap.sh의 frontend 스터디 내용 정리
 
 ---------------------------------------------------
 
