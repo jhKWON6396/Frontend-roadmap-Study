@@ -1,6 +1,6 @@
 # Forms and Validations
 
-:writing_hand: *write by shinjeonghea*
+:writing_hand: *write by JaeHwanKwon*
 
 ---------
 
