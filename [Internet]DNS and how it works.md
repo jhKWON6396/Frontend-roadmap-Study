@@ -1,6 +1,6 @@
 # DNS& DNS의 동작 원리
 
-:writing_hand: *write by shinjeonghea*
+:writing_hand: *write by JaeHwanKwon*
 
 **:pushpin: DNS를 알기전에 [Domain Name](https://github.com/shinjeonghea/GC-Study/blob/main/%5BInternet%5DWhat%20is%20Domain%20Name.md)에 대한 내용을 먼저 보도록 하자.**
 
