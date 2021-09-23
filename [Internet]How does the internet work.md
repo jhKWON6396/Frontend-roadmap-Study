@@ -1,7 +1,5 @@
 # 인터넷의 동작 원리
 
-:writing_hand: *write by shinjoenghea*
-
 
 ## 인터넷
 
