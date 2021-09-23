@@ -1,9 +1,11 @@
-## Frontend-roadmap-Study
-### roadmap.sh의 frontend 내용들의 개념을 정리하고 공부하기 위한 곳
+### Frontend-roadmap-Study
+
+##### roadmap.sh의 frontend 내용들의 개념을 정리하고 공부하기 위한 곳
+
 ---------------------------------------------------
 
 
-## :apple:Internet
+## Internet
 
 - [How does the internet work?](./%5BInternet%5DHow%20does%20the%20internet%20work.md)
 - [What is HTTP?](./%5BInternet%5DWhat%20is%20HTTP.md)
@@ -12,7 +14,7 @@
 - [What is Domain Name?](./%5BInternet%5DWhat%20is%20Domain%20Name.md)
 - [What is hosting?](./%5BInternet%5DWhat%20is%20hosting.md)
 
-## :lemon:HTML
+## HTML
 
 - [Learn the basics](./%5BHTML%5DLearn%20the%20basics.md)
 - [Writing Semantic HTML](./%5BHTML%5DWriting%20Semantic%20HTML.md)
