@@ -1,6 +1,6 @@
 # Browser & Browser의 동작 원리
 
-:writing_hand: *write by shinjeonghea*
+:writing_hand: *write by JaeHwanKwon*
 
 ## 브라우저
 
