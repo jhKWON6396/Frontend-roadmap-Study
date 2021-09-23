@@ -1,6 +1,6 @@
 # HTTP
 
-:writing_hand: *write by shinjeonghea*
+:writing_hand: *write by JaeHwanKwon*
 
 
 ## HTTP
