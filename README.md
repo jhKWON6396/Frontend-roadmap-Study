@@ -1,8 +1,7 @@
-### Frontend-roadmap-Study
+### ✏Frontend-roadmap-Study
 
-##### roadmap.sh의 frontend 스터디 내용 정리
+>#### roadmap.sh의 frontend 파트 정리
 
-##### :writing_hand: *write by JaeHwanKwon*
 ---------------------------------------------------
 
 
