@@ -8,11 +8,15 @@
 
  HTML(**H**yper**T**ext**M**arkup**L**anguage)은 웹 페이지와 그 내용을 구조화 하기 위해 사용되는 코드이다
 
- * HTML은 프로그래밍 언어가 아니다 <br>
+ * HTML은 웹 페이지를 만들기 위한 표준 마크업 언어이다. <br>
 
- * 컨텐츠의 구조를 정의하는 마크업 언어이다
+ * 컨텐츠의 구조를 정의하는 표준 마크업 언어
  
  * 컨텐츠의 서로 다른 부분들을 씌우거나(wrap) 감싸서(enclose) 다른 형식으로 보이게하거나 특정한 방식으로 동작하도록 하는 일련의 요소(elements)로 이루어져 있다.
+
+ * 요소들은 브라우저에게 내용을 어떻게 표시하는지를 말해준다.
+
+ * 요소들은 문단이나 링크, 헤드제목과 같이 내용을 라벨링 하기도 한다. 
   
  * tags로 감싸는 것으로 단어나 이미지를 다른 어딘가로 하이퍼링크(hyperlink)하거나 단어들을 이탤릭체로 표시하고 글씨체를 크게 또는 작게 만드는 등의 일을 할 수 있다. 
 
@@ -120,9 +124,26 @@
   ```<a>```로 문장 안의 어떤 단어를 링크로 만들 수 있다.
     - ```<a href="링크 주소" />```
   
+## HTML History
+ - 1989 : Tim Berners-Lee **www** 개발
+ - 1991 : Tim Berners-Lee **HTML** 개발
+ - 1993 : Dave Raggett HTML+ 초안
+ - 1995 : HTML Working Group이 HTML 2.0 정의
+ - 1997 : W3C Recommendation; HTML 3.2
+ - 1999 : W3C Recommendation; HTML 4.01
+ - 2000 : W3C Recommendation; XHTML 1.0
+ - 2008 : WHATWG HTML5 Fist Public 초안
+ - 2012 : WHATWG HTML5 Living Standard
+ - 2014 : W3C Recommendation; HTML5
+ - 2016 : W3C Candidate Recommendation: HTML 5.1
+ - 2017 : W3C Recommendation: HTML5.1 2nd Edition
+ - 2017 : W3C Recommendation: HTML5.2
+
+
 -----------
 
 ### :clipboard: [참조] Reference
 
 - [Learn the basics](https://velog.io/@ssoon_d/1.-Learn-the-basics)
 - [MDN - HTML 기본](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/HTML_%EA%B8%B0%EB%B3%B8)
+- [W3schools - HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
